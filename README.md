@@ -225,12 +225,6 @@ GET /api/models
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Authors
-- **Kunika Ahirwar** - Project Lead
-
 ## Acknowledgments
 - Medical insights and domain expertise
 - Dataset from healthcare analytics initiative
@@ -240,25 +234,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For questions or suggestions, please open an issue on GitHub or contact the project maintainers.
 
-## Citation
-If you use this project, please cite:
-```
-@software{predictive_pulse,
-  title={Predictive Pulse: Machine Learning for Blood Pressure Analysis},
-  author={Ahirwar, Kunika},
-  year={2025}
-}
-```
-
-## Roadmap
-- [ ] Add more advanced models (XGBoost, LightGBM)
-- [ ] Implement patient database
-- [ ] Add data export functionality
-- [ ] Create mobile app
-- [ ] Integrate wearable device data
-- [ ] Add real-time monitoring dashboard
-
-## Troubleshooting
 
 ### Common Issues
 1. **Module not found errors** - Run `pip install -r requirements.txt`
@@ -266,3 +241,4 @@ If you use this project, please cite:
 3. **Prediction errors** - Ensure input data is properly formatted
 
 For more help, see [INSTALLATION.md](docs/INSTALLATION.md)
+
